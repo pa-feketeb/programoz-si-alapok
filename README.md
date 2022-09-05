@@ -1,1 +1,1 @@
-# programoz-si-alapok
+# pa.alapok
